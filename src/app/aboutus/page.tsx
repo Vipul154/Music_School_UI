@@ -23,8 +23,9 @@ const AboutUsPage = () => {
             Welcome to Our Music Haven
           </div>
           <div className="font-extralight text-xl max-w-3xl md:text-2xl dark:text-neutral-200 py-4 text-center">
-            Discover the joy of music with us. Whether you're a beginner or a
-            seasoned musician, our courses are designed to inspire and educate.
+            Discover the joy of music with us. Whether you&apos;re a beginner or
+            a seasoned musician, our courses are designed to inspire and
+            educate.
           </div>
           <div className="text-xl  md:text-xl dark:text-neutral-200 py-4 text-center max-w-3xl">
             Our mission is to provide high-quality music education accessible to
